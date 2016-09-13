@@ -2,4 +2,4 @@
 * add sss by mystocks
 * add test conflict by mystocks2
 * add config by mysotcks
-* add test account by mystocks
+* add test accountt by mystocks
