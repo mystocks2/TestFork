@@ -2,4 +2,3 @@
 * add sss by mystocks
 * add test conflict by mystocks2
 * add config by mysotcks
-* add third thing
