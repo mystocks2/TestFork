@@ -1,8 +1,9 @@
 * first add
-* add sss by mystocks
-* add test conflict test by mystocks2
+* add sss by 
+* add test conflict test by
 * add config by mysotcks
 * add by mystocks2 9/13
-* add test accountt by mystocks
-* add test accountt by mystocks2 9/13
+* add test accountt by 
+* add test accountt by 
 * add test by mystocks
+* delete test by mystocks2
